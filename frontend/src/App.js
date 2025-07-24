@@ -34,7 +34,7 @@ function App() {
       </main>
 
       <footer className="App-footer">
-        <p>&copy; 2024 Resume Analyzer. Powered by Google Gemini AI.</p>
+        <p>&copy; 2024 Resume Analyzer. Powered by Google kusumaK.</p>
       </footer>
     </div>
   );
